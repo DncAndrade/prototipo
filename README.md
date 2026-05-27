@@ -1,5 +1,4 @@
-# 📌 Status de Aprendizado - Ciência da Computação
-
+# 📌 Status de Aprendizado 
 Este é um repositório inicial criado para prática dos primeiros conceitos de programação na faculdade e estruturação de portfólio.
 
 # 📑 Sobre o Projeto
