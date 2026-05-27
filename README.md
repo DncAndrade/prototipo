@@ -2,7 +2,7 @@
 
 Este é um repositório inicial criado para prática dos primeiros conceitos de programação na faculdade e estruturação de portfólio.
 
-# 🚀 Sobre o Projeto
+# 📑 Sobre o Projeto
 
 O projeto consiste em um script dinâmico em **Python** focado na organização e exibição estética de dados estruturados através do terminal. O objetivo foi aplicar na prática conceitos fundamentais como:
 
