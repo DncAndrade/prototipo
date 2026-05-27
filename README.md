@@ -18,4 +18,4 @@ O projeto consiste em um script dinâmico em **Python** focado na organização 
 * **Git & GitHub** (Versionamento e portfólio)
 
 ---
-*Buscando Estágio em Banco de Dados | SQL | Python* 🚀
+*Buscando Estágio em Banco de Dados | SQL | Python* 📂
